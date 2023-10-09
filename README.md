@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Inengs
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning golanguage
-- 💞️ I’m looking to collaborate on beginner projects on goolanguage
+- 🌱 I’m currently learning Golanguage
+- 💞️ I’m looking to collaborate on beginner projects on Golanguage
 - 📫 How to reach me ... via inengiyeemmanuel@gmail.com
 
 <!---
