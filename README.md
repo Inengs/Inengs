@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Inengs
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in backend development
 - 🌱 I’m currently learning Golanguage
 - 💞️ I’m looking to collaborate on beginner projects on Golanguage
 - 📫 How to reach me ... via inengiyeemmanuel@gmail.com
