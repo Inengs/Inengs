@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Inengs
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Golanguage
-- 💞️ I’m looking to collaborate on beginner projects on Golanguage
+- 👀 I’m interested in fullstack development
+- 🌱 I currently work with javascript
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... via inengiyeemmanuel@gmail.com
 
 <!---
