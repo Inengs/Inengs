@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   
 <!-- Stats cards side by side -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inengs&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inengs&layout=compact&theme=radical"/>
   
 </div>
