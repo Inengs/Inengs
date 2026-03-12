@@ -2,7 +2,7 @@ Hi there, I'm **Inengs** (Inengiye Emmanuel) 👋
 
 I am a software engineer.
 
-A lot of my work encompasses backend engineering. I am currently working on improving my DevOps skills, while hoping to gain more experience in the backend.
+A lot of my work encompasses backend engineering. I am currently improving my DevOps skills, while pushing deeper into the backend space.
 
 I also build user interfaces, using HTML, CSS, React and Next.js.
 
