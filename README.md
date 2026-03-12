@@ -24,6 +24,8 @@ I also build user interfaces, using HTML, CSS, React and Next.js.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
 </p>
 
 ---
@@ -43,9 +45,9 @@ I also build user interfaces, using HTML, CSS, React and Next.js.
 ## 📬 Contact
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-inengiye-3a206a289"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/emmanuel-inengiye-3a206a289"><img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://x.com/Inengs56"><img src="https://cdn.simpleicons.org/x/000000" width="40" height="40" /></a>
+  <a href="https://x.com/Inengs56"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:inengiyeemmanuel@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" /></a>
-</div>
+  <a href="mailto:inengiyeemmanuel@gmail.com"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
