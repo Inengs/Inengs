@@ -6,6 +6,11 @@ A lot of my work encompasses backend engineering. I am currently improving my De
 
 I also build user interfaces, using HTML, CSS, React and Next.js.
 
+Check out my articles on &nbsp;
+<a href="https://medium.com/@inengiyeemmanuel"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
+&nbsp;and&nbsp;
+<a href="https://hashnode.com/@inengs"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" /></a>
+
 
 ---
 
